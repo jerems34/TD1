@@ -1,11 +1,14 @@
 # <img src="img/um.png" width="17%" style="margin:auto;display:block;"/> Constraint Programming
 ### University of Montpellier
-**Cours:** [HMIN330M](https://formations.umontpellier.fr/fr/formations/sciences-technologies-sante-STS/master-XB/master-informatique-program-fruai0342321nprme154/informatique-theorique-mit-subprogram-pr479/raisonnement-par-contraintes-HMIN330M.html) 
-* [Email](mailto:nadjib.lazaar@umontpellier.fr).
+**Cours:** [HAI916I-GLIA ](https://docs.google.com/spreadsheets/d/1kZt5TLQ7VFotJbuEDRAXSFoG-Y3U-rFAB8bYenpMP9Y/edit#gid=1523296144) 
+* [Nadjib Lazaar](mailto:nadjib.lazaar@umontpellier.fr).
 
 
 ## TD1 - Programmation Par Contraintes
 
+Lien classroom : 
+
+--------------------------------
 
 - Le [StudentPack](https://education.github.com/pack) de GitHub vous permet d'avoir une licence gratuite pour plusieurs outils payants et la possibilité d'avoir des **projets privés** sur GitHub.
 - Le lien **GitHub Classroom** vous permet de créer un fork du projet et d'affecter automatiquement votre projet à l'organisation * HMIN330M-Constraints* :
